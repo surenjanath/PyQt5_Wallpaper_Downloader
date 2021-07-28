@@ -13,7 +13,7 @@ Previous Repo : [Python-Wallpaper_Changer](https://github.com/surenjanath/Python
 This version fetches images faster and has its own GUI.
 
 
-##What it does :
+## What it does :
 
 - Go to stocksnap.io
 - Randomly gets a number of page to scroll down range(1,850)
