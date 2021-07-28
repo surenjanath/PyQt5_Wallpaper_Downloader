@@ -25,6 +25,7 @@ This version fetches images faster and has its own GUI.
 - After picture found, it sets it as wallpaper. :)
 
 Program used  : Python , Cyberlink 
+
 Libraries     :  requests , time, os, random and cytypes
 
 PS : Took two days to complete. *wink
