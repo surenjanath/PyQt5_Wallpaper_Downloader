@@ -104,5 +104,5 @@ pyinstaller --onefile --windowed --icon=main.ico main.py
 - If not working properly check antivirus
 
 ## Video Sample
-[![Watch the video](https://img.youtube.com/vi/gXHu0Qjavzw/hqdefault.jpg)](https://youtu.be/gXHu0Qjavzw)
+[![Watch the video](https://img.youtube.com/vi/9ua8mlAZjkw/hqdefault.jpg)](https://www.youtube.com/watch?v=9ua8mlAZjkw)
 
