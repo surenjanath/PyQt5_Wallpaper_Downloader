@@ -75,7 +75,7 @@ pyuic5 -x [ui file].ui -o [ui].py
 ```
 ## To convert .py to .exe
 List of things to do before converting file to exe :
-Navigate to [This folder](https://github.com/surenjanath/PyQt5_Wallpaper_Downloader/tree/main/Convert_to_EXE)
+Navigate to [This folder](https://github.com/surenjanath/PyQt5_Wallpaper_Downloader/tree/main/Convert_To_Exe)
 
 - Convert ui to py if changes are made
 
