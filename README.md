@@ -9,6 +9,7 @@
 This program changes wallpaper.
 It also is an upgraded version of my previous repo.
 Previous Repo : [Python-Wallpaper_Changer](https://github.com/surenjanath/Python-Wallpaper_Changer)
+
 This version fetches images faster and has its own GUI.
 
 
@@ -37,19 +38,19 @@ PS : Took two days to complete. *wink
   
   Welcome screen
   
-  ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/WelcomeScreen.png?raw=true)
+  ![alt text](https://github.com/surenjanath/PyQt5_Wallpaper_Downloader/blob/main/Images/WelcomeScreen.png?raw=true)
   
   Full App
   
-  ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/Full.png?raw=true)
+  ![alt text](https://github.com/surenjanath/PyQt5_Wallpaper_Downloader/blob/main/Images/Full.png?raw=true)
   
    Search 
   
-  ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/GeneratedImage.png?raw=true)
+  ![alt text](https://github.com/surenjanath/PyQt5_Wallpaper_Downloader/blob/main/Images/GeneratedImage.png?raw=true)
      
    Random Search 
   
-  ![alt text](https://github.com/surenjanath/PyQt5_Financial_Scraper/blob/main/Images/SetPic.png?raw=true)
+  ![alt text](https://github.com/surenjanath/PyQt5_Wallpaper_Downloader/blob/main/Images/SetPic.png?raw=true)
   
 ## Installation
 
@@ -80,8 +81,8 @@ Navigate to [This folder](https://github.com/surenjanath/PyQt5_Wallpaper_Downloa
 
 add in these lines to main.py:
 - import UI library 
-in the main class WelcomeScreen under init function : self.setupUi(self)
-- pass Ui_MainWindow to class WelcomeScreen
+in the main class StartScreen under init function : self.setupUi(self)
+- pass Ui_MainWindow to class StartScreen
 - delete self.loadUi()
 
 then do the following : 
@@ -93,7 +94,7 @@ open cmd .
 Run the following code : 
 
 ```
-pyinstaller --onefile --windowed --icon=app.ico main.py
+pyinstaller --onefile --windowed --icon=main.ico main.py
 ```
 
 ## Troubleshooting & debugging
